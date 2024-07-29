@@ -1,0 +1,759 @@
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\appsettings.Development.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\appsettings.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.staticwebassets.runtime.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.exe
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.deps.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.runtimeconfig.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Project_2023.pdb
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Azure.Core.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Azure.Identity.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Humanizer.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.CodeDom.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Memory.Data.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.AssemblyReference.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfoInputs.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfo.cs
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.CoreCompileInputs.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.MvcApplicationPartsAssemblyInfo.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cs
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.Project_2023.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.build.Project_2023.props
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project_2023.props
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project_2023.props
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets.pack.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets.build.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\staticwebassets.development.json
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\scopedcss\bundle\Project_2023.styles.css
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\scopedcss\projectbundle\Project_2023.bundle.scp.css
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.CopyComplete
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\refint\Project_2023.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.pdb
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\Project_2023.genruntimeconfig.cache
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\obj\Debug\net7.0\ref\Project_2023.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Common.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\courses year 3\sem2\32 - Generation Programming Language\2023 Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.staticwebassets.runtime.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.exe
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.deps.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.runtimeconfig.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.pdb
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.AssemblyReference.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfoInputs.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfo.cs
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cs
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.Project_2023.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.build.Project_2023.props
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project_2023.props
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project_2023.props
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\bundle\Project_2023.styles.css
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\projectbundle\Project_2023.bundle.scp.css
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.CopyComplete
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\refint\Project_2023.dll
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.pdb
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.genruntimeconfig.cache
+C:\Users\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\ref\Project_2023.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\appsettings.Development.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\appsettings.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.staticwebassets.runtime.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.exe
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.deps.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.runtimeconfig.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Project_2023.pdb
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Azure.Core.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Azure.Identity.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Humanizer.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Common.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.CodeDom.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Memory.Data.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.AssemblyReference.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfoInputs.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.AssemblyInfo.cs
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.csproj.CoreCompileInputs.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.MvcApplicationPartsAssemblyInfo.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.RazorAssemblyInfo.cs
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.build.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.development.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.Project_2023.Microsoft.AspNetCore.StaticWebAssets.props
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.build.Project_2023.props
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project_2023.props
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project_2023.props
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\staticwebassets.pack.json
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\bundle\Project_2023.styles.css
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\scopedcss\projectbundle\Project_2023.bundle.scp.css
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_.1C455BA8.Up2Date
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\refint\Project_2023.dll
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.pdb
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\Project_2023.genruntimeconfig.cache
+D:\user\Documents\University\3year BS\sem 2\I3332 ASP Dr Kamal\Project\Project_2023\obj\Debug\net7.0\ref\Project_2023.dll
