@@ -1,0 +1,76 @@
+﻿@page
+@model Project_2023.Pages.CVs.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>CV</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Birthday)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.Birthday)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Nationality)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.Nationality)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Gender)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.Gender)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Grade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CVVM.Grade)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.photo)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.CV.Image" alt="Image" width="300px" height="auto" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CVVM.Skills)
+        </dt>
+        <ul>
+            @foreach (var skill in Model.CV.HasSkills)
+            {
+                <li>@skill.Skill.Name</li>
+            }
+        </ul>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.CV?.CVID">Edit</a> |
+    <a asp-page="./BrowseCV">Back to List</a>
+</div>

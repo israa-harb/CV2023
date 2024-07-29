@@ -1,0 +1,128 @@
+﻿@page
+@model EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>CV</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" name="id" value="@Model.id" />
+            <!--First Name-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.FirstName" class="control-label"></label>
+                <input asp-for="CVVM.FirstName" class="form-control" />
+                <span asp-validation-for="CVVM.FirstName" class="text-danger"></span>
+            </div>
+
+            <!--Last Name-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.LastName" class="control-label"></label>
+                <input asp-for="CVVM.LastName" class="form-control" />
+                <span asp-validation-for="CVVM.LastName" class="text-danger"></span>
+            </div>
+
+            <!--Birthday-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.Birthday" class="control-label"></label>
+                <input asp-for="CVVM.Birthday" class="form-control" />
+                <span asp-validation-for="CVVM.Birthday" class="text-danger"></span>
+            </div>
+
+            <!--Nationality-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.Nationality" class="control-label"></label>
+                <select asp-items="Model.NationalityItems" asp-for="CVVM.Nationality"></select>
+                <span asp-validation-for="CVVM.Nationality" class="text-danger"></span>
+            </div>
+
+            <!--Gender-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.Gender" class="control-label"></label>
+                @foreach (var gender in Model.GenderItems)
+                {
+                    <input type="radio" asp-for="CVVM.Gender" value="@gender"> @gender
+                }
+                <span asp-validation-for="CVVM.Gender" class="text-danger"></span>
+            </div>
+
+            <!--Skills-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.Skills" class="control-label"></label><br />
+                @for (int i = 0; i < Model.SkillItems.Count; i++)
+                {
+                    @if(Model.checkedSkills.Contains(Model.SkillItems[i]))
+                    {
+                        <input type="checkbox" name="CVVM.Skills" value="@Model.SkillItems[i].SkillId" checked />
+                    }
+                    else
+                    {
+                        <input type="checkbox" name="CVVM.Skills" value="@Model.SkillItems[i].SkillId" />
+                    }
+                    <label for="CVVM.Skills">@Model.SkillItems[i].Name</label>
+                    <br />
+                }
+                <span asp-validation-for="CVVM.Skills" class="text-danger"></span>
+            </div>
+
+            <!--Email-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.Email" class="control-label"></label>
+                <input asp-for="CVVM.Email" class="form-control" />
+                <span asp-validation-for="CVVM.Email" class="text-danger"></span>
+            </div>
+
+            <!--Confirm Email-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.ConfirmEmail" class="control-label"></label>
+                <input asp-for="CVVM.ConfirmEmail" class="form-control" />
+                <span asp-validation-for="CVVM.ConfirmEmail" class="text-danger"></span>
+            </div>
+
+            <!--Image-->
+            <div class="form-group my-2">
+                <label asp-for="CVVM.photo" class="control-label"></label><br />
+                <img src="@Model.imagePath" width="300px" height="auto" />
+                <input asp-for="CVVM.photo" type="file" class="form-control" />
+                <span asp-validation-for="CVVM.photo" class="text-danger"></span>
+            </div>
+
+            <!--Validation-->
+            <div>
+                <p>Validation</p>
+                <div class="form-group my-2">
+
+                    <input asp-for="CVVM.x" class="form-control" /> +
+
+                    <input asp-for="CVVM.y" class="form-control" /> =
+
+                    <input asp-for="CVVM.sum" class="form-control" />
+
+                    <span asp-validation-for="CVVM.x" class="text-danger"></span>
+                    <span asp-validation-for="CVVM.y" class="text-danger"></span>
+                    <span asp-validation-for="CVVM.sum" class="text-danger"></span>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+
+            <div asp-validation-summary="ModelOnly"></div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./BrowseCV">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
